@@ -12,7 +12,7 @@
 git add .
 git commit -m "Ready for deployment"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/ai-fitness-coach.git
+git remote add origin https://github.com/Abhay-Bhadauriya/ai-fitness-coach.git
 git push -u origin main
 ```
 *(Replace `YOUR_USERNAME` with your actual GitHub username)*
